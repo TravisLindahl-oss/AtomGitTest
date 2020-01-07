@@ -1,0 +1,104 @@
+body{
+  margin: 0;
+    font-family: fantasy; sans-serif; helvetica;
+    font-size: 20px;
+    line-height: 30px;
+    background-color: grey;
+}
+
+header{
+  background-color: navy;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+h1{
+  font-family: 'Titillium Web', sans-serif;
+  text-align: center;
+}
+h2{
+  font-family: 'Titillium Web', sans-serif;
+  text-align: center;
+  margin: 40px 0 10px;
+}
+
+header h1{
+    color: white;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 50px;
+}
+
+header img{
+  border-radius: 300px;
+  border: 15px solid white;
+}
+
+main img{
+  border-radius: 300px;
+  border: 15px solid white;
+}
+
+main{
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+main img{
+  max-width: 100%;
+}
+
+h2{
+  font-size: 35px;
+  color: white;
+}
+
+p{
+  font-size: 20px;
+  color: white;
+}
+
+ol{
+  color: white;
+}
+
+a{
+  color: white;
+}
+a:hover{
+  color: navy;
+  background-color: white;
+}
+
+footer{
+  color: white;
+  text-align: center;
+  font-size: 5px;
+  background-color: navy;
+  padding: 50px;
+}
+
+footer p{
+  margin: 0;
+}
+
+p.caption{
+  font-style: italic;
+  text-align: center;
+  margin-top: 0;
+}
+
+p{
+  text-align: center;
+}
+
+ol{
+  text-align: center;
+}
+
+.center{
+  text-align: center;
+  list-style-position: inside;
+  color: white;
+  padding-left: 0;
+}
